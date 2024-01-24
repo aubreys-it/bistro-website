@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "bistrobythetracks.com",
+  "Id": "64edf217-1246-405a-a5bc-c1922d9184e2"
+}

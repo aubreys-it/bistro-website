@@ -1,4 +1,0 @@
-deployment:
-  tasks:
-    - export DEPLOYPATH=/home/arburles/public_html/bistro
-    - /bin/cp -r * $DEPLOYPATH
