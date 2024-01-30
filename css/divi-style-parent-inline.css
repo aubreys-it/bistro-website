@@ -947,7 +947,7 @@ a.et_pb_more_button:after {
     -webkit-transition-duration: .2s;
     transition-duration: .2s;
     -webkit-transition-property: all !important;
-    transition-property: all !important
+    transition-property: all !important;
 }
 
 .et_pb_button,
@@ -1256,7 +1256,7 @@ body.et-bfb .et_pb_slides .et_parallax_bg.et_pb_parallax_css {
 .et_pb_section_parallax.et_pb_row .et_pb_column,
 .et_pb_section_parallax.et_pb_row .et_pb_module {
     z-index: 9;
-    position: relative
+    position: relative;
 }
 
 .et_pb_more_button:hover:after {
